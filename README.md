@@ -12,3 +12,13 @@ Text document of the US Constitution: a text version adapted from the U.S. Gover
 Mask file: a .jpg of the stencil of the continental United States
 
 Output: USConst_wordCloud.png
+
+
+UPDATE: 13-Sep-2017
+Added more stop words.
+
+Created a new word cloud for the Amendments:
+
+Input: 
+Text: Amendments.txt from http://hrlibrary.umn.edu/education/all_amendments_usconst.htm
+Mask: eagle.jpg
