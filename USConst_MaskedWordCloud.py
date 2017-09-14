@@ -35,6 +35,13 @@ us_mask = np.array(Image.open(args.mask))
 
 # create a set ouf of stopwords
 stopwords = set(STOPWORDS)
+moreStopWords = ["Section", "AMENDMENT", "section", "without", "article", 
+                 "within", "otherwise", "upon", "whenever", "begin", "thereof",
+                 "unless", "become", "among", "may", "made", "Day", "make", 
+                 "Place", "either", "every", "wherein", "hereof", "therein", 
+                 "hereby"]
+for w in moreStopWords:
+    stopwords.add(w)
 
 # instantiate the word cloud generator
 wc = WordCloud(background_color = 'aliceblue', mask = us_mask, stopwords = stopwords, 
