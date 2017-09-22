@@ -33,4 +33,4 @@ NEXT:
 * Trim down the occurrence of similar words by performing some stemming, etc., to only get root words instead of counting multiple versions of the same word, such as state, states, etc.  
 * N-grams in order to catch important phrases, titles, etc., such as Vice President as distinguished from President.  And also to analyze common phrases and to start on topic identification.  
 * Topic modeling
-* BUT WAIT, THERE'S MORE: Similar tasks++ with gensim, ntlk, etc., etc.
+* BUT WAIT, THERE'S MORE: Similar tasks++ with gensim, nltk, etc., etc.
