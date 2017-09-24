@@ -39,6 +39,7 @@ NEXT:
 UPDATE: 23-Sep-2017
 Added:
 
-* a word cloud for President Washington's First Inaugural Speech
-* text doc of President Washington's First Inaugural Speech
-* updated code for creating the masked word cloud
+* PresidentWashingtonFirstInauguralSpeech.png: a word cloud for President Washington's First Inaugural Speech
+* GeorgeWashington_InauguralSpeech.txt: text doc of President Washington's First Inaugural Speech from https://www.ourdocuments.gov/doc.php?flash=false&doc=11 
+* MaskedWordCloud.py: updated code for creating the masked word cloud
+* PresWashington.jpg: silhouette of President George Washington's profile
