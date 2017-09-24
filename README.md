@@ -34,3 +34,11 @@ NEXT:
 * N-grams in order to catch important phrases, titles, etc., such as Vice President as distinguished from President.  And also to analyze common phrases and to start on topic identification.  
 * Topic modeling
 * BUT WAIT, THERE'S MORE: Similar tasks++ with gensim, nltk, etc., etc.
+
+
+UPDATE: 23-Sep-2017
+Added:
+
+* a word cloud for President Washington's First Inaugural Speech
+* text doc of President Washington's First Inaugural Speech
+* updated code for creating the masked word cloud
