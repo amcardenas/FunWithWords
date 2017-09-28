@@ -43,3 +43,13 @@ Added:
 * GeorgeWashington_InauguralSpeech.txt: text doc of President Washington's First Inaugural Speech from https://www.ourdocuments.gov/doc.php?flash=false&doc=11 
 * MaskedWordCloud.py: updated code for creating the masked word cloud
 * PresWashington.jpg: silhouette of President George Washington's profile
+
+UPDATE: 27-Sep-2017
+Added:
+* nltkPractice.py: code to practice with nltk; this code counts words, sentences and word lengths within a document.  It also creates a bag of words with word frequencies and plots the histogram of word lengths per document.  For demonstration, I've run this code on the USConstitution, the Ammendments to the US Constitution and President George Washington's First Inaugural Speech.
+* USConstitution_WordLengthHistogram.png
+* Amendments_WordLengthHistogram.png
+* GeorgeWashingtonInaugural_WordLengthHistogram.png
+* USConstitution_wordSet.txt
+* Amendments_wordSet.txt
+* GeorgeWashingtonInaugural_wordSet.txt
