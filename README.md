@@ -53,3 +53,5 @@ Added:
 * USConstitution_wordSet.txt
 * Amendments_wordSet.txt
 * GeorgeWashingtonInaugural_wordSet.txt
+
+IMPORTANT NOTE: in this code, I used the lemmatization features of the nltk package.  This seemed to introduce some tokens ("words") that shouldn't be included such as "le" in Washington's Inaugural Speech. Therefore, this process will need to be refined to account for these kinds of results but this is a good starting point for now.  
